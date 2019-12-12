@@ -1,4 +1,4 @@
-![R Ladies world map](Rladiescolombocopy.png)
+![R Ladies world map](Rladiescolombocopy.png =250x)
 
 
 ## R-Ladies Colombo Meetup Materials
