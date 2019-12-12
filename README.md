@@ -1,4 +1,4 @@
-![R Ladies world map](Rladiescolombocopy.png =250x)
+![R Ladies world map](Rladiescolombocopy.png)<!-- .element height="50%" width="50%" -->
 
 
 ## R-Ladies Colombo Meetup Materials
