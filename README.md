@@ -1,5 +1,5 @@
 
-<img src="Rladiescolombocopy.png" align="left" height="150" />
+<img src="Rladiescolombo.png" align="left" height="150" />
 
 ## R-Ladies Colombo Meetup Materials
 
