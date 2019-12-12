@@ -6,8 +6,16 @@
 Links to materials from our Meetups will be posted here (content to be found on our chapter's Github page). 
 
 
-\vspace{30cm}
 
-## 2020 
+
+
+
+
+
+
+
+
+
+### 2020 
 
 First Meetup is Coming Soon!!
