@@ -1,6 +1,7 @@
 ![R Ladies world map](Rladiescolombocopy.png)<!-- .element height="10%" width="10%" -->
 
-<img src="Rladiescolombocopy.pn" align="left" height="150" />
+<img src="Rladiescolombocopy.png" align="left" height="150" />
+
 ## R-Ladies Colombo Meetup Materials
 
 Links to materials from our Meetups will be posted here (content to be found on our chapter's Github page). Please feel free to reach out to chicago@rladies.org with any questions.
